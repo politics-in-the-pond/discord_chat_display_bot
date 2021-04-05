@@ -1,6 +1,6 @@
 # discord_chat_display_bot
-C#연습겸 Form연습겸 만들어본 연습용 프로그램입니다.
-디스코드 채팅방의 채팅내용을 봇을 통해 화면에 그려줍니다.
+C#연습겸 Form연습겸 만들어본 연습용 프로그램입니다. </br>
+디스코드 채팅방의 채팅내용을 봇을 통해 실시간 스트리밍 스타일로 화면에 그려줍니다.
 ![이미지](https://github.com/politics-in-the-pond/discord_chat_display_bot/blob/photo/%EC%9D%B4%EB%AF%B8%EC%A7%80%206.png?raw=true)
 ![이미지](https://github.com/politics-in-the-pond/discord_chat_display_bot/blob/photo/%EC%9D%B4%EB%AF%B8%EC%A7%80%207.png)
 
